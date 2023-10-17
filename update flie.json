@@ -14,7 +14,8 @@
 {
          "name": "TH-AIS",
          "url": "XM2MUNrgfE3dr18Gl9BvipP+ReGJ45bpQIWIazM++q3thq+q+Qyai85+nK6se/R302zwDkoaT/5eIRWHuO1iAYtQbotnJLeI/unfkkI0bPY="
-      {
+},
+   {
          "name": "TH-DTAC-02",
          "url": "ttypE9VojJpsUjX5Njj04dVpyZhk1P9cqXZ+sIx+pEqttz3xM/FAlncCHHiYdRT9Y3erXegHuBNVqbWE2iCbPL/mRpm1i19WFmLWNgfxu/M="
       },
@@ -31,9 +32,9 @@
 
 
    ],
-"message":"🚀 Config version - 4 
+"message":"🚀 Config version - 5 
 \n📆 18:00 update - 17/10/2023
 เมื่อเห็นข้อความนี้กรุณากดตกลงเพื่ออัปเดตไฟล์ล่าสุด",
    "title":"Do you want to update?",
-   "version": 4
+   "version": 5
 }
