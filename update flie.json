@@ -14,13 +14,26 @@
 {
          "name": "TH-AIS",
          "url": "XM2MUNrgfE3dr18Gl9BvipP+ReGJ45bpQIWIazM++q3thq+q+Qyai85+nK6se/R302zwDkoaT/5eIRWHuO1iAYtQbotnJLeI/unfkkI0bPY="
-      }
+      {
+         "name": "TH-DTAC-02",
+         "url": "ttypE9VojJpsUjX5Njj04dVpyZhk1P9cqXZ+sIx+pEqttz3xM/FAlncCHHiYdRT9Y3erXegHuBNVqbWE2iCbPL/mRpm1i19WFmLWNgfxu/M="
+      },
+
+{
+         "name": "TH-TRUE-02",
+         "url": "/ZOxAxvgyJ5OuTcyUJ5idUMAjdhc3MTlkDDl9VadXzPXg2vqXRvwyhL7fmfydeWe4ollG+qgo+o3AgwscpTF1QwmoxNwAnUAZbrcUbN493Y="
+      },
+
+{
+         "name": "TH-AIS-02",
+         "url": "OIzlcNVma+7C4tG+v/O2dNCGGeRRpFBHC/sZdV8DhlZIg0wlqqsmgqn2k2MRnHOEl/NSLN6DIj7umKeJEbIXrlJoiprFRZOejcpZ5ioVfuo="
+},
 
 
    ],
-"message":"🚀 Config version - 22 
-\n📆 Latest update - 17/10/2023
-เมื่อเห็นข้อความนี้กรุณากดตกลงเพื่อไฟล์ล่าสุด",
+"message":"🚀 Config version - 4 
+\n📆 18:00 update - 17/10/2023
+เมื่อเห็นข้อความนี้กรุณากดตกลงเพื่ออัปเดตไฟล์ล่าสุด",
    "title":"Do you want to update?",
-   "version": 3
+   "version": 4
 }
