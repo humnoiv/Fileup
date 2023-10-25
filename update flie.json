@@ -28,13 +28,27 @@
 {
          "name": "TH-AIS-02",
          "url": "OIzlcNVma+7C4tG+v/O2dNCGGeRRpFBHC/sZdV8DhlZIg0wlqqsmgqn2k2MRnHOEl/NSLN6DIj7umKeJEbIXrlJoiprFRZOejcpZ5ioVfuo="
+},
+      {
+         "name": "TH-DTAC-NEW-03",
+         "url": "aRcSxpA04v+R/jPu7JSdxeMkVVG0yJk7T3b3V8hKKMpMieE4eKs+fUsB/HWIuOBdsKq1RvwK4qEMZghKJa7DkT7kHxcIWc2whcug4lS80Yc="
+      },
+
+{
+         "name": "TH-TRUE-NEW-03",
+         "url": "Tn2MUE9EijEGt12rDn3PV7Hnw28jallUl8eak9WBdEyCk9KNnhOqvE5BXzOmwPTScRer+Sepf8BrSBnJJXozYEz6JsbONdpqh1vrKY6/sTY="
+      },
+
+{
+         "name": "TH-AIS-NEW-03",
+         "url": "Lgfb+e6CaNbeXOLRHPChT2c7+DdyLNEOglsyyEmWWWrHaPC09TFZdfl90noY2jz9HXTOEo70xb7CFHd691FW3Es0cdrNR63+JTWum2HeKbg="
 }
 
 
    ],
-"message":"🚀 Config version - 5 
-\n📆 18:00 update - 17/10/2023
+"message":"🚀 Config version - 6 
+\n📆 03:00 update - 26/10/2023
 เมื่อเห็นข้อความนี้กรุณากดตกลงเพื่ออัปเดตไฟล์ล่าสุด",
    "title":"Do you want to update?",
-   "version": 5
+   "version": 6
 }
