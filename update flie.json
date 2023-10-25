@@ -42,13 +42,22 @@
 {
          "name": "TH-AIS-NEW-03",
          "url": "Lgfb+e6CaNbeXOLRHPChT2c7+DdyLNEOglsyyEmWWWrHaPC09TFZdfl90noY2jz9HXTOEo70xb7CFHd691FW3Es0cdrNR63+JTWum2HeKbg="
-}
+},
+      {
+         "name": "TH-DTAC-Metrabyte",
+         "url": "U8emY2K+qgutpD4XrODRJICB2Oujw/jXf3P/TYhVSHrDAAAyHpEsYdo6ZgLKmTtWjkvgw44uy43iXUJJ+JR6oPZ0pQaZeWOlvOwKS5mlVhINLzKZgEno6Q=="
+      },
+
+{
+         "name": "TH-TRUE-Metrabyte",
+         "url": "oAnqSpkYKPx84Sw9uJK+fsZD40E8kCvLxb7aPnU7K/miLvotULAxCdbtLupQ87ovLbiaTT4YnQdFS9fgEmVJkPCfmxo/XZcKqDbHWKX9hN8vLZTGNtaC6w=="
+      }
 
 
    ],
-"message":"🚀 Config version - 6 
+"message":"🚀 Config version - 7 
 \n📆 03:00 update - 26/10/2023
 เมื่อเห็นข้อความนี้กรุณากดตกลงเพื่ออัปเดตไฟล์ล่าสุด",
    "title":"Do you want to update?",
-   "version": 6
+   "version": 7
 }
