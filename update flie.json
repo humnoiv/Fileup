@@ -38,35 +38,35 @@
          "url": "Lgfb+e6CaNbeXOLRHPChT2c7+DdyLNEOglsyyEmWWWrHaPC09TFZdfl90noY2jz9HXTOEo70xb7CFHd691FW3Es0cdrNR63+JTWum2HeKbg="
 },
       {
-         "name": "TH-DTAC-Metrabyte-NEW",
+         "name": "TH-DTAC-Metrabyte",
          "url": "U8emY2K+qgutpD4XrODRJICB2Oujw/jXf3P/TYhVSHrDAAAyHpEsYdo6ZgLKmTtWjkvgw44uy43iXUJJ+JR6oPZ0pQaZeWOlvOwKS5mlVhINLzKZgEno6Q=="
       },
 {
-         "name": "TH-TRUE-Metrabyte-NEW",
+         "name": "TH-TRUE-Metrabyte",
          "url": "oAnqSpkYKPx84Sw9uJK+fsZD40E8kCvLxb7aPnU7K/miLvotULAxCdbtLupQ87ovLbiaTT4YnQdFS9fgEmVJkPCfmxo/XZcKqDbHWKX9hN8vLZTGNtaC6w=="
       },
       {
-         "name": "TH-DTAC-INET1-NEW",
+         "name": "TH-DTAC-INET1",
          "url": "0bkAka712VN3nPOZqWfXC1QV6jWGl1/Me4YfIOSK+WyLzcuvByrFSs/PWDGxRJDtlbi1Bs9ihq39GSc3kqXyBzNvfp3hKN8Tb1M2rdCUH+s442Ws"
       },
 
 {
-         "name": "TH-TRUE-INET1-NEW",
+         "name": "TH-TRUE-INET1",
          "url": "y+AbwLv3YEnOP3dZ4ScJCqB16yTfeu5DbFj0wCO2laaTM4UCtiCJZIDJbYFk0Jx5QmEMos7hhg6VheNabw+cN//LcQouglumUSpSVIKLzNxtyFct"
       },
 
 {
-         "name": "TH-DTAC-INET2-NEW",
+         "name": "TH-DTAC-INET2",
          "url": "KKe4XG7DRB+KqSxKRfU2u8MZiCWqLp4GnSTXK39A+OIWHWb3E6K3yh4B8oxOIKYhltsFZcbTNcQZVs/k4Fghdo3XfJFJRMdN+QLbPg7k70/gDT0V"
       },
 
 {
-         "name": "TH-TRUE-INET2-NEW",
+         "name": "TH-TRUE-INET2",
          "url": "ENl9MGJzK84ERdPG8dUmYjjYpPyL4C6E16re5oCUTz3Y6/DUnWibAMd5SwQflYj9ggGtB5Ocxa2+1bPleRblFY8/9D6qBvSyf+Mztg0VtoysR+aW"
 },
       {
 
-         "name": "TH-DTAC-BANGMOD-GAME",
+         "name": "TH-DTAC-BANGMOD-GAME-NEW",
 
          "url": "4+PoVskETLk5CnW6ykC5pRDlj1mlECppT9H0caXl5wAI8nt/RMddHNcX/RPGCSqZkO50y06xh+91kLHU01V/o1u/+TBCNO6J9b7v/V23rYZLRkxE"
 
@@ -74,7 +74,7 @@
 
 {
 
-         "name": "TH-TRUE-BANGMOD-GAME",
+         "name": "TH-TRUE-BANGMOD-GAME-NEW",
 
          "url": "qVWai8ZwEkqcTbLHUejr+0mc7k39l+i7AH+tPZcGNJ4rI6vp5Qv4AzIq/HaLKkBOhuONIlxMiAAUp2F301+wNc+No6f7z5GcWLN+cuIS7ESUQmXu"
 
@@ -83,12 +83,13 @@
 
 
    ],
-"message":"🚀 Config version - 9 
+"message":"🚀 Config version - 10 
 \n📆 09:00 update - 27/10/2023
    \n📱 เพิ่ม Bangmod💥
    \n📱 เพิ่ม Inet💥
    \n📱 เพิ่ม Metrabyte💥
+   
 เมื่อเห็นข้อความนี้กรุณากดปุ่มอัปเดต",
    "title":"🤗HUMNOI NEW VERSION🙀",
-   "version": 9
+   "version": 10
 }
