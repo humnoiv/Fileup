@@ -5,12 +5,10 @@
          "name": "TH-DTAC-01",
          "url": "Wov/Fgksoib68u4vnHjn6MZGyk+ucg+udvc9WHnQTcX33zlE9g3+9vuIUo6mI3F+ShmiaVAN1gvx4f1KftYN2g01l1KFbabAHDSA6GoVdpw="
       },
-
 {
          "name": "TH-TRUE-01",
          "url": "VHYuI+7RjizDkXdSgMgbpKOD6w6dDK+yHuh30lC2HKWsDfLryZqdgf4+bzfBQKfHBa5ozRkkjCbq5J5uYyYNJBbUN3MUvOUcB+Cmb3i8JRg="
       },
-
 {
          "name": "TH-AIS-01",
          "url": "XM2MUNrgfE3dr18Gl9BvipP+ReGJ45bpQIWIazM++q3thq+q+Qyai85+nK6se/R302zwDkoaT/5eIRWHuO1iAYtQbotnJLeI/unfkkI0bPY="
@@ -19,12 +17,10 @@
          "name": "TH-DTAC-02",
          "url": "ttypE9VojJpsUjX5Njj04dVpyZhk1P9cqXZ+sIx+pEqttz3xM/FAlncCHHiYdRT9Y3erXegHuBNVqbWE2iCbPL/mRpm1i19WFmLWNgfxu/M="
       },
-
 {
          "name": "TH-TRUE-02",
          "url": "/ZOxAxvgyJ5OuTcyUJ5idUMAjdhc3MTlkDDl9VadXzPXg2vqXRvwyhL7fmfydeWe4ollG+qgo+o3AgwscpTF1QwmoxNwAnUAZbrcUbN493Y="
       },
-
 {
          "name": "TH-AIS-02",
          "url": "OIzlcNVma+7C4tG+v/O2dNCGGeRRpFBHC/sZdV8DhlZIg0wlqqsmgqn2k2MRnHOEl/NSLN6DIj7umKeJEbIXrlJoiprFRZOejcpZ5ioVfuo="
@@ -33,12 +29,10 @@
          "name": "TH-DTAC-03",
          "url": "aRcSxpA04v+R/jPu7JSdxeMkVVG0yJk7T3b3V8hKKMpMieE4eKs+fUsB/HWIuOBdsKq1RvwK4qEMZghKJa7DkT7kHxcIWc2whcug4lS80Yc="
       },
-
 {
          "name": "TH-TRUE-03",
          "url": "Tn2MUE9EijEGt12rDn3PV7Hnw28jallUl8eak9WBdEyCk9KNnhOqvE5BXzOmwPTScRer+Sepf8BrSBnJJXozYEz6JsbONdpqh1vrKY6/sTY="
       },
-
 {
          "name": "TH-AIS-03",
          "url": "Lgfb+e6CaNbeXOLRHPChT2c7+DdyLNEOglsyyEmWWWrHaPC09TFZdfl90noY2jz9HXTOEo70xb7CFHd691FW3Es0cdrNR63+JTWum2HeKbg="
@@ -47,7 +41,6 @@
          "name": "TH-DTAC-Metrabyte-NEW",
          "url": "U8emY2K+qgutpD4XrODRJICB2Oujw/jXf3P/TYhVSHrDAAAyHpEsYdo6ZgLKmTtWjkvgw44uy43iXUJJ+JR6oPZ0pQaZeWOlvOwKS5mlVhINLzKZgEno6Q=="
       },
-
 {
          "name": "TH-TRUE-Metrabyte-NEW",
          "url": "oAnqSpkYKPx84Sw9uJK+fsZD40E8kCvLxb7aPnU7K/miLvotULAxCdbtLupQ87ovLbiaTT4YnQdFS9fgEmVJkPCfmxo/XZcKqDbHWKX9hN8vLZTGNtaC6w=="
@@ -70,15 +63,32 @@
 {
          "name": "TH-TRUE-INET2-NEW",
          "url": "ENl9MGJzK84ERdPG8dUmYjjYpPyL4C6E16re5oCUTz3Y6/DUnWibAMd5SwQflYj9ggGtB5Ocxa2+1bPleRblFY8/9D6qBvSyf+Mztg0VtoysR+aW"
+},
+      {
+
+         "name": "TH-DTAC-BANGMOD-GAME",
+
+         "url": "4+PoVskETLk5CnW6ykC5pRDlj1mlECppT9H0caXl5wAI8nt/RMddHNcX/RPGCSqZkO50y06xh+91kLHU01V/o1u/+TBCNO6J9b7v/V23rYZLRkxE"
+
+      },
+
+{
+
+         "name": "TH-TRUE-BANGMOD-GAME",
+
+         "url": "qVWai8ZwEkqcTbLHUejr+0mc7k39l+i7AH+tPZcGNJ4rI6vp5Qv4AzIq/HaLKkBOhuONIlxMiAAUp2F301+wNc+No6f7z5GcWLN+cuIS7ESUQmXu"
+
 }
       
 
 
    ],
-"message":"🚀 Config version - 8 
-\n📆 09:00 update - 26/10/2023
-   \n🤗 เพิ่ม server Thailand 
+"message":"🚀 Config version - 9 
+\n📆 09:00 update - 27/10/2023
+   \n📱 เพิ่ม Bangmod💥
+   \n📱 เพิ่ม Inet💥
+   \n📱 เพิ่ม Metrabyte💥
 เมื่อเห็นข้อความนี้กรุณากดปุ่มอัปเดต",
-   "title":"HUMNOI NEW VERSION",
-   "version": 8
+   "title":"🤗HUMNOI NEW VERSION🙀",
+   "version": 9
 }
