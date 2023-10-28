@@ -66,7 +66,7 @@
 },
       {
 
-         "name": "TH-DTAC-BANGMOD-GAME-HOT",
+         "name": "TH-DTAC-BANGMOD-GAME-Gift",
 
          "url": "4+PoVskETLk5CnW6ykC5pRDlj1mlECppT9H0caXl5wAI8nt/RMddHNcX/RPGCSqZkO50y06xh+91kLHU01V/o1u/+TBCNO6J9b7v/V23rYZLRkxE"
 
@@ -74,14 +74,14 @@
 
 {
 
-         "name": "TH-TRUE-BANGMOD-GAME-HOT",
+         "name": "TH-TRUE-BANGMOD-GAME-Gift",
 
          "url": "qVWai8ZwEkqcTbLHUejr+0mc7k39l+i7AH+tPZcGNJ4rI6vp5Qv4AzIq/HaLKkBOhuONIlxMiAAUp2F301+wNc+No6f7z5GcWLN+cuIS7ESUQmXu"
 
 },
       {
 
-         "name": "TH-DTAC-YOUTUBE-GAME1-NEW",
+         "name": "TH-DTAC-YOUTUBE-GAME1-Gift",
 
          "url": "1zChwCxcr95A406EGyJUXPHipxCjsTWOomqkkrRjMxbs4BYDBG4JQdzzrIJXtNNUfUTVPhA8132UlihtI1tkTwWI+DqArbey1ZQl8h7VEs6LNtsfAOQAyg=="
 
@@ -91,14 +91,14 @@
 
 {
 
-         "name": "TH-TRUE-YOUTUBE-GAME1-NEW",
+         "name": "TH-TRUE-YOUTUBE-GAME1-Gift",
 
          "url": "PV0xti07/vUwQIhIEZtZgcDsghI0RHn/D3BSM+c2FZeyTBCPSgwTitGabK/HERd4uu7xqQf7TWf8NUnDRttLOepsuefUS6aa5lroaAiGmdkOLyRGPXmBXA=="
 
 },
       {
 
-         "name": "TH-DTAC-YOUTUBE-GAME2-NEW",
+         "name": "TH-DTAC-YOUTUBE-GAME2-Gift",
 
          "url": "5Hf8XRw6nPP+20exLjXqMm5nF3ukNIysiB8mRCbpEIxKB/yysQrO4ZQkCVSs5PjteN6tdD5lH7VRAi9zZCULRaJ4tiVyT9DuUckP5TBrSLRTIuENd8+scQ=="
 
@@ -108,16 +108,53 @@
 
 {
 
-         "name": "TH-TRUE-YOUTUBE-GAME2-NEW",
+         "name": "TH-TRUE-YOUTUBE-GAME2-Gift",
 
          "url": "TEewa8kehnnUZMrkYckVGggNl+MlNQXVkGLvogVoMAHNwc5BMYAiksF8Vv7UhTknnv88HJcdHg9ZjV9DEQPfYApZOru4afdR6TgGxWTK0rmwVhPohp9ZTQ=="
+
+},
+      {
+
+         "name": "TH-DTAC-04-NEW",
+
+         "url": "V12sWzy2FD3otJqN6xUaHk2dYVmnCx6X3+quU/HoYBCNj1y8ilnqQT2UArlQwEntdxclNCsYi7rP72bc2aGASCv93Y7LKZfS2gfBqlz/kXU="
+
+      },
+
+
+
+{
+
+         "name": "TH-TRUE-04-NEW",
+
+         "url": "MMTMMGANGiv894TlXeIpI22rvqt50Dtd2PDQdj5Nq37pGOnqOQehpKqGhTJ+Z3wSJQMhZ1wCfqYxZGRaxoqyRgLw04qtKaOr1lgtuAW+PbQ="
+
+      },
+
+
+
+{
+
+         "name": "TH-DTAC-05-NEW",
+
+         "url": "TnPIwYOBkYL8XK6BEuIc+yswyWTqDbjOrcu0kiUXWlDyIRLZBg7cp7BGevly6KUudoXYvYqVIJVswTBxGiJjE1FDohjx8H4Rh41OhJ8F/nY="
+
+      },
+
+
+
+{
+
+         "name": "TH-TRUE-05-NEW",
+
+         "url": "rB/M1vcA1y4gSOoMnxyJ2SbXa2jb5gxocPooJE2LPTDygwGJzgy8UrltAr1yGgw9iNC0gDFjAnsYHxrrDIxkbZDCQb1SikN9EhJrAb1uXRU="
 
 }
       
 
 
    ],
-"message":"🚀 Config version - 13 
+"message":"🚀 Config version - 14 
 \n📆 19:00 update - 28/10/2023
    \n📱 เพิ่ม ➕SERVER🇹🇭BANGMOD 💥
    \n📱 เพิ่ม ➕SERVER🇹🇭INET 💥
@@ -127,5 +164,5 @@
    
 เมื่อเห็นข้อความนี้กรุณากดปุ่มอัปเดต",
    "title":"🤗HUMNOI NEW VERSION🙀",
-   "version": 13
+   "version": 14
 }
