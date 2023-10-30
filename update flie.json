@@ -115,7 +115,7 @@
 },
       {
 
-         "name": "TH-DTAC-04-NEW",
+         "name": "TH-DTAC-04",
 
          "url": "V12sWzy2FD3otJqN6xUaHk2dYVmnCx6X3+quU/HoYBCNj1y8ilnqQT2UArlQwEntdxclNCsYi7rP72bc2aGASCv93Y7LKZfS2gfBqlz/kXU="
 
@@ -125,7 +125,7 @@
 
 {
 
-         "name": "TH-TRUE-04-NEW",
+         "name": "TH-TRUE-04",
 
          "url": "MMTMMGANGiv894TlXeIpI22rvqt50Dtd2PDQdj5Nq37pGOnqOQehpKqGhTJ+Z3wSJQMhZ1wCfqYxZGRaxoqyRgLw04qtKaOr1lgtuAW+PbQ="
 
@@ -135,7 +135,7 @@
 
 {
 
-         "name": "TH-DTAC-05-NEW",
+         "name": "TH-DTAC-05",
 
          "url": "TnPIwYOBkYL8XK6BEuIc+yswyWTqDbjOrcu0kiUXWlDyIRLZBg7cp7BGevly6KUudoXYvYqVIJVswTBxGiJjE1FDohjx8H4Rh41OhJ8F/nY="
 
@@ -145,7 +145,7 @@
 
 {
 
-         "name": "TH-TRUE-05-NEW",
+         "name": "TH-TRUE-05",
 
          "url": "rB/M1vcA1y4gSOoMnxyJ2SbXa2jb5gxocPooJE2LPTDygwGJzgy8UrltAr1yGgw9iNC0gDFjAnsYHxrrDIxkbZDCQb1SikN9EhJrAb1uXRU="
 
@@ -180,13 +180,110 @@
 
          "url": "SdG7ak4UhB2eEar6C25BAmg26ze5HNXPqOYGHHpXM430EF5D3XMbqlFJFCaxAxM+3UVn02Q9uZzKWqqx14S5TJsjHxgKwUss+aTwIyLYiRs="
 
-}
+},
+
+
+
+
+{
+
+         "name": "TH-DTAC-06-NEW",
+
+         "url": "51PnaIhpbbp1fS/W6R5LkzdUG/56uS6COkR0EukbpePg4fyzOlxmn8aZDVJKMeP4EQHFEx/N2p6vJBYeBk0fAhWHop9crux2mBj6+xOx8fM="
+
+      },
+
+
+
+{
+
+         "name": "TH-DTAC-07-NEW",
+
+         "url": "E9wyOmSsmoizo8NG/0zYxc4qlxxxRG8r0YYgSxEZTQQUNDxkuqUoSH5+L8JGHksIc1bYjbf1KMQXEHt5+Z71aR2wDqw39EvMBKF8CiGmBGU="
+
+      },
+
+
+
+{
+
+         "name": "TH-DTAC-08-NEW",
+
+         "url": "PdN+xWEpQRagFQszrtENL3/tg0fQWnDrpIunDP1+jDVOYnfhpsW4EkYEeL7C37bKPz+dwKX934pq6ZaoCk5y7xkTgtH76Z4bloSgXhFbg/c="
+
+      },
+
+{
+
+         "name": "TH-DTAC-09-NEW",
+
+         "url": "qJoUwhIX/cxoi/taci5l1i4oGROB5lNtgsIzsAfWy5wkUIljXX0T77SC2zI8noL2ikbHqCmSlbqOnU51w4b98SFRtaHaQbq9oSUdH8ociKU="
+
+      },
+
+
+
+{
+
+         "name": "TH-DTAC-10-NEW",
+
+         "url": "tDQlcZ2keDx4259IW80yfagQAtpQA9Pipg4nWj9pQZ7neX/vt4snMJbRvCWUX4RJwEw3EolHctCtG1P2Q+IRWAxe9Lva1hCi72Kwb0O9IiM="
+
+      },
+
+{
+
+         "name": "TH-TRUE-06-NEW",
+
+         "url": "T2YRwZo5GfMBkI0ajIdzchYOGeAfmDd/6ms5zmbZsf6rh2HRGrj6KBc2Xe4TZuSN8xM0u9W+WAqnSbax4mPu58JVslXrnVeAA7Cg1BKq45U="
+
+      },
+
+
+
+{
+
+         "name": "TH-TRUE-07-NEW",
+
+         "url": "eS/C86iJX1+t9vfnpB6kNewkijreGteUXTSAMwrnLkKhLbtCzeYG6QX+qi85ajTJ347Jgp7S0NzNd3r5yMXdJSl1SF7u5QQg5Od0Y33od7M="
+
+      },
+
+
+
+{
+
+         "name": "TH-TRUE-08-NEW",
+
+         "url": "FqsB2jeyO5ZPTaChfEB5bCI6esIGA/sQh+e1702gsYYUNj+4VN1XgaozLU7+UI39lReKu4394Q//2wjFkgb7EmaxmrkMW4hYWxEUXv4DNQc="
+
+      },
+
+{
+
+         "name": "TH-TRUE-09-NEW",
+
+         "url": "wjW06DTpzi82K5XW6hOYxlOcZYUPpKeOKKIgsGDmoeQqWW1sc0pCZjZAaiZn/EKDwjTlK64TVZbAq6WKGDlyE4mn0mBSky6yB296LuqHeXI="
+
+      },
+
+
+
+{
+
+         "name": "TH-TRUE-10-NEW",
+
+         "url": "2yc64F5W6sL+ifwFfuvVfKx+LbBhWyRr96n2KGc1peqMk9UNZBsZBSHGEOicIJ3RfupwYHCwNC22XtnN0H8Xl7zkKAtRVDtNmKwmu3b6v+I="
+
+      }
+
+
       
 
 
    ],
-"message":"🚀 Config version - 15 
-\n📆 09:00 update - 29/10/2023
+"message":"🚀 Config version - 16 
+\n📆 19:00 update - 30/10/2023
    \n📱 เพิ่ม 💧SERVER🇹🇭 VIP 💥
    \n📱 เพิ่ม 💧SERVER🇹🇭BANGMOD 💥
    \n📱 เพิ่ม 💧SERVER🇹🇭INET 💥
@@ -196,5 +293,5 @@
    
 เมื่อเห็นข้อความนี้กรุณากดปุ่มอัปเดต",
    "title":"🤗 HUMNOI NEW VERSION 🙀",
-   "version": 15
+   "version": 16
 }
