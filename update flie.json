@@ -187,7 +187,7 @@
 
 {
 
-         "name": "TH-DTAC-06-NEW",
+         "name": "TH-DTAC-06",
 
          "url": "51PnaIhpbbp1fS/W6R5LkzdUG/56uS6COkR0EukbpePg4fyzOlxmn8aZDVJKMeP4EQHFEx/N2p6vJBYeBk0fAhWHop9crux2mBj6+xOx8fM="
 
@@ -197,7 +197,7 @@
 
 {
 
-         "name": "TH-DTAC-07-NEW",
+         "name": "TH-DTAC-07",
 
          "url": "E9wyOmSsmoizo8NG/0zYxc4qlxxxRG8r0YYgSxEZTQQUNDxkuqUoSH5+L8JGHksIc1bYjbf1KMQXEHt5+Z71aR2wDqw39EvMBKF8CiGmBGU="
 
@@ -207,7 +207,7 @@
 
 {
 
-         "name": "TH-DTAC-08-NEW",
+         "name": "TH-DTAC-08",
 
          "url": "PdN+xWEpQRagFQszrtENL3/tg0fQWnDrpIunDP1+jDVOYnfhpsW4EkYEeL7C37bKPz+dwKX934pq6ZaoCk5y7xkTgtH76Z4bloSgXhFbg/c="
 
@@ -215,7 +215,7 @@
 
 {
 
-         "name": "TH-DTAC-09-NEW",
+         "name": "TH-DTAC-09",
 
          "url": "qJoUwhIX/cxoi/taci5l1i4oGROB5lNtgsIzsAfWy5wkUIljXX0T77SC2zI8noL2ikbHqCmSlbqOnU51w4b98SFRtaHaQbq9oSUdH8ociKU="
 
@@ -225,7 +225,7 @@
 
 {
 
-         "name": "TH-DTAC-10-NEW",
+         "name": "TH-DTAC-10",
 
          "url": "tDQlcZ2keDx4259IW80yfagQAtpQA9Pipg4nWj9pQZ7neX/vt4snMJbRvCWUX4RJwEw3EolHctCtG1P2Q+IRWAxe9Lva1hCi72Kwb0O9IiM="
 
@@ -233,7 +233,7 @@
 
 {
 
-         "name": "TH-TRUE-06-NEW",
+         "name": "TH-TRUE-06",
 
          "url": "T2YRwZo5GfMBkI0ajIdzchYOGeAfmDd/6ms5zmbZsf6rh2HRGrj6KBc2Xe4TZuSN8xM0u9W+WAqnSbax4mPu58JVslXrnVeAA7Cg1BKq45U="
 
@@ -243,7 +243,7 @@
 
 {
 
-         "name": "TH-TRUE-07-NEW",
+         "name": "TH-TRUE-07",
 
          "url": "eS/C86iJX1+t9vfnpB6kNewkijreGteUXTSAMwrnLkKhLbtCzeYG6QX+qi85ajTJ347Jgp7S0NzNd3r5yMXdJSl1SF7u5QQg5Od0Y33od7M="
 
@@ -253,7 +253,7 @@
 
 {
 
-         "name": "TH-TRUE-08-NEW",
+         "name": "TH-TRUE-08",
 
          "url": "FqsB2jeyO5ZPTaChfEB5bCI6esIGA/sQh+e1702gsYYUNj+4VN1XgaozLU7+UI39lReKu4394Q//2wjFkgb7EmaxmrkMW4hYWxEUXv4DNQc="
 
@@ -261,7 +261,7 @@
 
 {
 
-         "name": "TH-TRUE-09-NEW",
+         "name": "TH-TRUE-09",
 
          "url": "wjW06DTpzi82K5XW6hOYxlOcZYUPpKeOKKIgsGDmoeQqWW1sc0pCZjZAaiZn/EKDwjTlK64TVZbAq6WKGDlyE4mn0mBSky6yB296LuqHeXI="
 
@@ -271,27 +271,74 @@
 
 {
 
-         "name": "TH-TRUE-10-NEW",
+         "name": "TH-TRUE-10",
 
          "url": "2yc64F5W6sL+ifwFfuvVfKx+LbBhWyRr96n2KGc1peqMk9UNZBsZBSHGEOicIJ3RfupwYHCwNC22XtnN0H8Xl7zkKAtRVDtNmKwmu3b6v+I="
 
-      }
+      },
+{
+
+         "name": "TH-DTAC-11-NEW",
+
+         "url": "1UG66tRUsWnZrJed4CPvKa0Cak9ECYy3cnFM3UWzaSy4yQMbAN6+BPpJbjcTo7kMQnJQuREREu3xtoFO1huwXR/I8/JbEdtiujJTMWUZgMC1Vw2S"
+
+      },
+
+{
+
+         "name": "TH-DTAC-12-NEW",
+
+         "url": "AGX1bgZQ4Zg92WLyYOW5fH1+HbSFkyykjfOXGKHup9C6onRXKVV/WHY0c3ol5c5M3zFfnGKt3gMBiWjx9rVYPaBcOIbfZvQNPhNFWmDKg2tM9roH"
+
+      },
+
+{
+
+         "name": "TH-DTAC-13-NEW",
+
+         "url": "cwTmVjmRSdTUqFOSuW7jXgs3V7+81zGmvvBCtR9OuiACP/q4YRDuV20Y/XBEDRJRY3DeZSHOOUvRX6rmKWDSDFp4M0yMa4GXXjmzgk85VRk6gEvG"
+
+      },
+
+{
+
+         "name": "TH-TRUE-SOCIAL-11-NEW",
+
+         "url": "ayxC+4ZHmORMaPOXqslLL7A9kSR1m0ZDp00ra01LmuoG5negcTgCa/XpcvdAap7EaeFjLLy/m3Nyv3IurnRwxHGve+a+tNuCWted/OIalE0="
+
+      },
+
+{
+
+         "name": "TH-TRUE-SOCIAL-12-NEW",
+
+         "url": "639W5GZ9+aRnLH/jwZ8yhMz9qEvOf1mlUpHe5bmIlArVzKcEEHN8JvAkmwkA/N6zYT8gRk15mtZtNQJ4orqvtLzMTyo5Kl+I2Y9xZKid6tw="
+
+      },
+
+{
+
+         "name": "TH-TRUE-SOCIAL-13-NEW",
+
+         "url": "to/xQ4upIpGDQ0V0XamyJ/bmR0ArLz4CJBggCIjcL0lpAewgGwClPK576a688/twTU6toUjpcyKwo/zu7BIaKBvoasRS5RPZ2iau+qtmECY="
+
+}
 
 
       
 
 
    ],
-"message":"🚀 Config version - 16 
-\n📆 19:00 update - 30/10/2023
+"message":"🚀 Config version - 17 
+\n📆 21:00 update - 32/10/2023
    \n📱 เพิ่ม 💧SERVER🇹🇭 VIP 💥
    \n📱 เพิ่ม 💧SERVER🇹🇭BANGMOD 💥
    \n📱 เพิ่ม 💧SERVER🇹🇭INET 💥
    \n📱 เพิ่ม 💧SERVER🇹🇭METRABYTE 💥
-   \n📱 เพิ่ม 💧SERVER🇹🇭YOUTUBE 💥
+   \n📱 เพิ่ม 💧SERVER🇹🇭Facebook-Gamming💥
    \n📱 เพิ่ม 💧SERVER🇹🇭GAMEONLINE💥
-   
+   \n📱 เพิ่ม 💧SERVER🇹🇭SOCIAL-YOUTUBE💥
 เมื่อเห็นข้อความนี้กรุณากดปุ่มอัปเดต",
    "title":"🤗 HUMNOI NEW VERSION 🙀",
-   "version": 16
+   "version": 17
 }
